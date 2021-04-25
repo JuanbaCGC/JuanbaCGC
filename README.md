@@ -9,10 +9,12 @@ I'm a 20 years old student of University of Castilla-La Mancha at the Escuela Su
 ### About me 😎
 - 🙋‍♂️ I love sports, specially football ⚽
 - Programming lenguages and tools:
+
 <code><a target="_blank"><img height="50" src="https://image.flaticon.com/icons/png/512/518/518713.png"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://img.icons8.com/color/452/c-programming.png"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://i.pinimg.com/originals/07/90/ab/0790ab2e4e0e578223367ac5e7bbe19d.jpg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://img.icons8.com/color/452/visual-studio-2019.png"></a></code>
 
 - 📫 How to reach me:  mailto:JuanbaCGC@gmail.com
 
