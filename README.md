@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Juanba 👋
 
-<!--
-**JuanbaCGC/JuanbaCGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a 20 years old student of University of Castilla-La Mancha at the Escuela Superior de Informática de Ciudad Real, in the Computer Ingineering intensification. I consider myself a hardworking student with ambition, proactivity and a good attitude.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
