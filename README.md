@@ -16,5 +16,5 @@ I'm a 20 years old student of University of Castilla-La Mancha at the Escuela Su
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://i.pinimg.com/originals/07/90/ab/0790ab2e4e0e578223367ac5e7bbe19d.jpg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://img.icons8.com/color/452/visual-studio-2019.png"></a></code>
 
-- 📫 How to reach me:  mailto:JuanbaCGC@gmail.com
+- 📫 How to reach me: JuanbaCGC@gmail.com
 
