@@ -20,7 +20,7 @@ I'm a 20 years old student of University of Castilla-La Mancha at the Escuela Su
 
 - 📫 How to reach me: JuanbaCGC@gmail.com
 
-<code><a href target="https://www.instagram.com/juanba15/"><img height="50" src="https://i.pinimg.com/originals/1e/d9/a0/1ed9a0fd507968861891b1098f480f4a.png"></a></code>
+<code><a href target="https://instagram.com/juanba15?igshid=hgwc9hs7g5hu "><img height="50" src="https://i.pinimg.com/originals/1e/d9/a0/1ed9a0fd507968861891b1098f480f4a.png"></a></code>
 
 
 
