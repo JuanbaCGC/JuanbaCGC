@@ -3,10 +3,14 @@
 
 ### Hi there, I'm Juanba 👋
 
-I'm a 20 years old student of University of Castilla-La Mancha at the Escuela Superior de Informática of Ciudad Real, in the Computer Ingineering intensification. I consider myself a hardworking student with ambition, proactivity and a good attitude.
+I'm a 21 years old student of University of Castilla-La Mancha at the Escuela Superior de Informática of Ciudad Real, in the Computer Ingineering intensification. I consider myself a hardworking student with ambition, proactivity and a good attitude.
 
 ### About me 😎
 - 🙋‍♂️ I love sports, specially football ⚽
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I have a certified level of English of B2.
+
+<code><a target="_blank"><img height="50" src="https://www.academiaemprende.com/aulavirtual/pluginfile.php/25/course/overviewfiles/B2-INGLES.jpg"></a></code>
+
 - 💻 Programming lenguages and tools:
 
 <code><a target="_blank"><img height="50" src="https://image.flaticon.com/icons/png/512/518/518713.png"></a></code>
