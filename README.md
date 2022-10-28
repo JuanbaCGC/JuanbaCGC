@@ -5,7 +5,7 @@
 
 I'm a 22 years old student of University of Castilla-La Mancha at the Escuela Superior de Informática of Ciudad Real, in the Computer Ingineering intensification. I consider myself a hardworking student with ambition, proactivity and a good attitude.
 
-### About me 😎
+### About me 
 - 🙋‍♂️ I love sports, specially football ⚽
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I have a certified level of English of B2.
 
