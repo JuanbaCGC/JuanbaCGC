@@ -21,6 +21,20 @@ Welcome to my GitHub profile! I'm a 22 years old student of University of Castil
 <code><a target="_blank"><img height="50" src="https://i.pinimg.com/originals/07/90/ab/0790ab2e4e0e578223367ac5e7bbe19d.jpg"></a></code>
 <code><a target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></a></code>
 
-- 📫 How to reach me: 
+## Featured projects 💼
+
+- [My most recent project](https://github.com/JuanbaCGC/JuanBautistaCGC_Distribuidos) - A client implementation in a distributed application with ZeroCIce.
+
+## GitHub statistics 📊
+
+Take a look at my GitHub statistics!
+
+[![JuanbaCGC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanbaCGC&count_private=true&show_icons=true&theme=dark)](https://github.com/JuanbaCGC)
+
+📫 How to reach me: 
+
 - Email: [JuanbaCGC@gmail.com](mailto:juanbacgc@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/juanbautista-castano-garciacervigon/)
+
+
+Thanks for visiting my profile! 😄
