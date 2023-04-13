@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a 22 years old student of University of Castil
 - [API REST](https://github.com/JuanbaCGC/Seguridad-en-Redes) - Implementation of an API REST for the Network Security subject
 - [Docker](https://github.com/JuanbaCGC/P4-SegRed) - The updated API REST with Docker.
 - [Intelligent systems project](https://github.com/JuanbaCGC/SI_LAB_B1_1) - Project for the Intelligent Systems subject.
-- [Weekly chalenges](https://github.com/JuanbaCGC/retos-programacion-2023) of [@mouredev](https://github.com/mouredev)
+- [Weekly chalenges](https://github.com/JuanbaCGC/retos-programacion-2023) of [@mouredev](https://github.com/mouredev) - Diferents programming chalenges with some solutions.
 
 ## GitHub statistics 📊
 
