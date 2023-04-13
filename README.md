@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a 22 years old student of University of Castil
 ## Featured projects 💼
 
 - [My most recent project](https://github.com/JuanbaCGC/JuanBautistaCGC_Distribuidos) - A client implementation in a distributed application with ZeroCIce.
+- [Weekly chalenges](https://github.com/JuanbaCGC/retos-programacion-2023) of [@mouredev](https://github.com/mouredev)
 
 ## GitHub statistics 📊
 
