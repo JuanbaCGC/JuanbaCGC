@@ -20,10 +20,15 @@ Welcome to my GitHub profile! I'm a 22 years old student of University of Castil
 <code><a target="_blank"><img height="50" src="https://img.icons8.com/color/452/python.png"></a></code>
 <code><a target="_blank"><img height="50" src="https://i.pinimg.com/originals/07/90/ab/0790ab2e4e0e578223367ac5e7bbe19d.jpg"></a></code>
 <code><a target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></a></code>
+<code><a target="_blank"><img height="50" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png"></a></code>
 
 ## Featured projects 💼
 
 - [My most recent project](https://github.com/JuanbaCGC/JuanBautistaCGC_Distribuidos) - A client implementation in a distributed application with ZeroCIce.
+- [SSOOIIGLE I](https://github.com/JuanbaCGC/SSOOIIGLE-Part-1) and [SSOOIIGLE II](https://github.com/JuanbaCGC/SSOOIIGLE-Part-2) - Client-server simulation of a word search engine with different users types and characteristics.
+- [API REST](https://github.com/JuanbaCGC/Seguridad-en-Redes) - Implementation of an API REST for the Network Security subject
+- [Docker](https://github.com/JuanbaCGC/P4-SegRed) - The updated API REST with Docker.
+- [Intelligent systems project](https://github.com/JuanbaCGC/SI_LAB_B1_1) - Project for the Intelligent Systems subject.
 - [Weekly chalenges](https://github.com/JuanbaCGC/retos-programacion-2023) of [@mouredev](https://github.com/mouredev)
 
 ## GitHub statistics 📊
