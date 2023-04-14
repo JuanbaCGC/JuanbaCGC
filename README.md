@@ -1,11 +1,11 @@
 
  <img src="https://komarev.com/ghpvc/?username=JuanbaCGC" alt="JuanbaCGC" />
 
-### Hi there, I'm Juanba 👋
+## Hi there, I'm Juanba 👋
 
 Welcome to my GitHub profile! I'm a 22 years old student of University of Castilla-La Mancha at the Escuela Superior de Informática of Ciudad Real, in the Computer Engineering intensification. I'm currently working on my thesis project. Furthermore, I consider myself a hardworking student with ambition, proactivity and a good attitude that intend to expand his knowledge in order to grow personally and professionally.
 
-### About me 👨‍💻
+## About me 👨‍💻
 - 🙋‍♂️ I love sports, specially football ⚽
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I have a certified level of English of B2.
 
@@ -38,7 +38,7 @@ Take a look at my GitHub statistics!
 [![JuanbaCGC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanbaCGC&count_private=true&show_icons=true&?theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📫 How to reach me: 
+## How to reach me 📫
 
 - Email: [JuanbaCGC@gmail.com](mailto:juanbacgc@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/juanbautista-castano-garciacervigon/)
