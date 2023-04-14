@@ -35,7 +35,8 @@ Welcome to my GitHub profile! I'm a 22 years old student of University of Castil
 
 Take a look at my GitHub statistics!
 
-[![JuanbaCGC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanbaCGC&count_private=true&show_icons=true&theme=dark)](https://github.com/JuanbaCGC)
+[![JuanbaCGC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanbaCGC&count_private=true&show_icons=true&?theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 
 📫 How to reach me: 
 
