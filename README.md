@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Juanba 👋
 
-Welcome to my GitHub profile! I'm a 22 years old student of University of Castilla-La Mancha at the Escuela Superior de Informática of Ciudad Real, in the Computer Engineering intensification. I'm currently working on my thesis project. Furthermore, I consider myself a hardworking student with ambition, proactivity and a good attitude that intend to expand his knowledge in order to grow personally and professionally.
+Welcome to my GitHub profile! I'm a 23 years old student of University of Castilla-La Mancha at the Escuela Superior de Informática of Ciudad Real, in the Computer Engineering intensification. I'm currently working on my thesis project. Furthermore, I consider myself a hardworking student with ambition, proactivity and a good attitude that intend to expand his knowledge in order to grow personally and professionally.
 
 ## About me 👨‍💻
 - 🙋‍♂️ I love sports, specially football ⚽
