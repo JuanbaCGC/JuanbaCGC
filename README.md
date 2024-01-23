@@ -41,7 +41,7 @@ Take a look at my GitHub statistics!
 ## How to reach me 📫
 
 - Email: [JuanbaCGC@gmail.com](mailto:juanbacgc@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/juanbautista-castano-garciacervigon/)
+- [LinkedIn](https://www.linkedin.com/in/juanbautista-castano/)
 
 
 Thanks for visiting my profile! 😄
